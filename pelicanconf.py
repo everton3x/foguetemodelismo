@@ -10,17 +10,17 @@ PATH = 'content'
 STATIC_PATHS = [
     'assets',
     'images',
-    # 'extra/index.html'
 ]
 
 EXTRA_PATH_METADATA = {
     # 'assets/robots.txt': {'path': 'robots.txt'},
     'assets/favicon.ico': {'path': 'favicon.ico'},
-    # 'extra/index.html': {'path': 'index.html'},
 }
 
 # Coloca a landing-page como index
-TEMPLATE_PAGES = {'extra/index.html': 'index.html'}
+#TEMPLATE_PAGES = {'extra/index.html': 'index.html'}
+# Coloca o index origianl com outro nome de página
+# INDEX_SAVE_AS = 'blog.html'
 
 TIMEZONE = 'America/Sao_Paulo'
 
@@ -48,8 +48,6 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-INDEX_SAVE_AS = 'blog.html'
 
 THEME = 'themes/attila'
 
