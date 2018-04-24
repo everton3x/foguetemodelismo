@@ -1,6 +1,6 @@
 Title: Como construir um water rocket
 Date: 2018-04-13
-Category: Construção
+Category: Tutorial
 Tags: water rocket
 Summary: Roadmap para construção de water rockets.
 
@@ -10,7 +10,7 @@ Antes de ter o seu foguete, algumas decisões precisam ser tomadas, já que infl
 
 Decidido que você construirá um water rocket, é preciso escolher algumas coisas, todas relativas não ao foguete, propriamente dito, mas a sua base de lançamento.
 
-A primeira escolha diz respeito à forma de prender o foguete à base de lançamento, evitando que ele saia voando já no início da pressurização. Para isso, temos três sistemas básicos: [Gardena](#), [Clark Cable Tie](#) e o [Locking Screw System](#).
+A primeira escolha diz respeito à forma de prender o foguete à base de lançamento, evitando que ele saia voando já no início da pressurização. Para isso, temos três sistemas básicos: [Gardena](#), [Clark Cable Tie](#) e o [Locking Cable System](#).
 
 A segunda escolha a ser feita se refere ao ângulo de lançamento. O lançamento será feito a 90°, a 45°, a 30°, deverá ter inclinação variável?
 
