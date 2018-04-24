@@ -3,7 +3,7 @@ Date: 2018-04-11
 Authors: everton3x
 Summary: Um novo site para um novo hobby!
 
-Hello world Rocketiers!
+Hello world Foguetemodelismo!
 
 Este é um site sobre foguetemodelismo, focado na prática com [water rockets](/pages/o-que-sao-water-rockets.html).
 
