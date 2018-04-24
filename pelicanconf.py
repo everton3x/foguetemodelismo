@@ -7,10 +7,25 @@ SITENAME = 'Foguetemodelismo'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = [
+    'assets',
+    'images',
+    # 'extra/index.html'
+]
+
+EXTRA_PATH_METADATA = {
+    # 'assets/robots.txt': {'path': 'robots.txt'},
+    'assets/favicon.ico': {'path': 'favicon.ico'},
+    # 'extra/index.html': {'path': 'index.html'},
+}
+
+# Coloca a landing-page como index
+TEMPLATE_PAGES = {'extra/index.html': 'index.html'}
 
 TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -33,3 +48,26 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+INDEX_SAVE_AS = 'blog.html'
+
+THEME = 'themes/attila'
+
+## Configurações do tema Attila
+AUTHORS_BIO = {
+    'everton3x': {
+        'name': 'Everton da Rosa',
+        'website': 'https://everton3x.github.io',
+        'location': 'Três de Maio - RS - Brasil',
+        'bio': 'Contador por profissão, programador por vocação, e foguetemodelista.'
+    }
+}
+
+HEADER_COVER = 'assets/images/banner_1.jpg'
+# COLOR_SCHEME_CSS = 'tomorrow.css'
+# COLOR_SCHEME_CSS = 'tomorrow_night.css'
+# COLOR_SCHEME_CSS = 'monokai.css'
+COLOR_SCHEME_CSS = 'github.css'
+# COLOR_SCHEME_CSS = 'darkly.css'
+
+SHOW_FULL_ARTICLE = False
