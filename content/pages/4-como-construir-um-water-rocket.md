@@ -17,4 +17,4 @@ A segunda escolha a ser feita se refere ao ângulo de lançamento. O lançamento
 
 ---
 [^1]: **Roadmap** uma espécie de "caminho das pedras", ou roteiro, para se fazer alguma coisa.
-[^2]: Para detalhes, consulte o tópico **Classificações ** da página [O que é foguetemodelismo?](/pages/o-que-e-foguetemodelismo.html)
+[^2]: Para detalhes, consulte o tópico **Classificações ** da página [O que é foguetemodelismo?](o-que-e-foguetemodelismo.html)
