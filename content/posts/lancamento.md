@@ -1,4 +1,5 @@
 Title: Lançando foguetes
+Slug: lancamento
 Authors: everton3x
 Category: Artigo
 Tags: lançamento, regras

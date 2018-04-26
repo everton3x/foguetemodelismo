@@ -1,4 +1,5 @@
 Title: O que é foguetemodelismo?
+Slug: foguetemodelismo
 Category: Conceitos
 Authors: everton3x
 Summary: Aprenda e entenda o que é foguetemodelismo.

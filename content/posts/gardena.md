@@ -1,4 +1,5 @@
 Title: O lançador Gardena
+Slug: gardena
 Authors: everton3x
 Category: Lançadores
 Tags: gardena, lançador

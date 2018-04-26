@@ -1,4 +1,5 @@
 Title: Lançadores
+Slug: lancadores
 Authors: everton3x
 Category: Artigo
 Tags: lançador

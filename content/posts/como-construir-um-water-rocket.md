@@ -1,4 +1,5 @@
 Title: Como construir um water rocket
+Slug: como-construir-um-water-rocket
 Authors: everton3x
 Category: Tutorial
 Tags: water rocket
@@ -10,7 +11,7 @@ Antes de ter o seu foguete, algumas decisões precisam ser tomadas, já que infl
 
 Decidido que você construirá um water rocket, é preciso escolher algumas coisas, todas relativas não ao foguete, propriamente dito, mas ao seu lançador.
 
-A primeira escolha diz respeito à forma de prender o foguete ao lançador, evitando que ele saia voando já no início da pressurização. Para isso, temos três sistemas básicos: [Gardena](o-lancador-gardena.html), [Clark Cable-Tie](o-lancador-clark-cable-tie.html) e o [Split Collar Cable Tie](o-lancador-split-collar-cable-tie.html).
+A primeira escolha diz respeito à forma de prender o foguete ao lançador, evitando que ele saia voando já no início da pressurização. Para isso, temos três sistemas básicos: [Gardena](gardena.html), [Clark Cable-Tie](clark-cable-tie.html) e o [Split Collar Cable Tie](split-collar-cable-tie.html).
 
 A segunda escolha a ser feita se refere ao ângulo de lançamento. O lançamento será feito a 90°, a 45°, a 30°, ou deverá ter inclinação variável?
 
@@ -26,8 +27,8 @@ O **nariz do foguete**, por sua vez, é geralmente feito por uma garrafa PET, em
 
 Por fim, as **aletas**, também chamadas de *barbatanas* ou *asas* podem ser feitas dos mais diversos materiais e são fixadas diretamente na parte de baixo do corpo do foguete ou através de uma cinta feita com outra garrafa PET. Em geral, um foguete tem entre 3 e 4 aletas, que são fundamentais para conferir estabilidade ao voo do foguete.
 
-Com tudo pronto, é hora de efetuar o [lançamento](lancando-foguetes.html) do seu primeiro water rocket.
+Com tudo pronto, é hora de efetuar o [lançamento](lancamento.html) do seu primeiro water rocket.
 
 ---
 [^1]: Roadmap uma espécie de "caminho das pedras", ou roteiro, para se fazer alguma coisa.
-[^2]: Para detalhes, consulte o tópico **Classificações** da página [O que é foguetemodelismo?](pages/o-que-e-foguetemodelismo.html)
+[^2]: Para detalhes, consulte o tópico **Classificações** da página [O que é foguetemodelismo?](pages/foguetemodelismo.html)

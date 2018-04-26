@@ -1,10 +1,11 @@
 Title: O que são water rockets?
+Slug: water-rockets
 Category: Conceitos
 Tags: water rocket
 Authors: everton3x
 Summary: Descubra o que são water rockets e para que servem.
 
-**Water rockets**, termo anglo-saxão para **foquetes de água** são foguetes cuja propulsão é realizada mediante a expulsão de água com ar comprimido do interior do foguete e são muito utilizados por foguetemodelistas para a prática do [foguetemodelismo](o-que-e-foguetemodelismo.html).
+**Water rockets**, termo anglo-saxão para **foquetes de água** são foguetes cuja propulsão é realizada mediante a expulsão de água com ar comprimido do interior do foguete e são muito utilizados por foguetemodelistas para a prática do [foguetemodelismo](foguetemodelismo.html).
 
 Um típico *water rocket* é composto por três partes básicas: o corpo do foguete, as aletas e o nariz (ou bico, ou coifa).
 

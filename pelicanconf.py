@@ -46,11 +46,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Everton da Rosa', 'https://everton3x.github.io/'),
-		# ('Hello World', 'https://everton3x.github.io/helloworld/'),
-        ('Contabilidade Pública', 'https://everton3x.github.io/contabilidadpublica'),
-        ('Fórum sobre Contabilidade Pública', 'http://www.contabeis.com.br/forum/foruns/8/contabilidade-publica/')
-)
+# LINKS = (('Everton da Rosa', 'https://everton3x.github.io/'),
+# 		# ('Hello World', 'https://everton3x.github.io/helloworld/'),
+#         ('Contabilidade Pública', 'https://everton3x.github.io/contabilidadpublica'),
+#         ('Fórum sobre Contabilidade Pública', 'http://www.contabeis.com.br/forum/foruns/8/contabilidade-publica/')
+# )
 
 # Social widget
 SOCIAL = (('Facebook', 'https://facebook.com/foguetemodelismo'),
@@ -64,12 +64,12 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-MENUITEMS = (('Início', 'index.html'),
-	('Categorias', 'categories.html'),
-	('Tags', 'tags.html'),
-	('Autores', 'authors.html'),
-	('Arquivos', 'archives.html')
-)
+# MENUITEMS = (('Início', 'index.html'),
+# 	('Categorias', 'categories.html'),
+# 	('Tags', 'tags.html'),
+# 	('Autores', 'authors.html'),
+# 	('Arquivos', 'archives.html')
+# )
 
 THEME = 'themes/attila'
 

@@ -1,4 +1,5 @@
 Title: O lançador Clark Cable-Tie
+Slug: clark-cable-tie
 Authors: everton3x
 Category: Lançadores
 Tags: clark-cable-tie, lançador

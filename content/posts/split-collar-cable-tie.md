@@ -1,4 +1,5 @@
 Title: O lançador Split Collar Cable Tie
+Slug: split-collar-cable-tie
 Authors: everton3x
 Category: Lançadores
 Tags: split-collar-cable-tie, lançador
