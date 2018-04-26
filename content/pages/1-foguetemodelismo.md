@@ -1,6 +1,6 @@
 Title: O que é foguetemodelismo?
 Category: Conceitos
-Authors: everton.da.rosa
+Authors: everton3x
 Summary: Aprenda e entenda o que é foguetemodelismo.
 
 **Foguetemodelismo** é um hobby e um instrumento educacional e profissional que se destina ao projeto, construção e lançamento (nem sempre) de **modelos de foguetes**.

@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Everton da Rosa <everton3x@gmail.com>'
 SITENAME = 'Foguetemodelismo'
-SITEURL = ''
+SITEURL = 'http://localhost:8000/docs'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
@@ -62,7 +62,7 @@ SOCIAL = (('Facebook', 'https://facebook.com/foguetemodelismo'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 MENUITEMS = (('Início', 'index.html'),
 	('Categorias', 'categories.html'),
@@ -75,7 +75,7 @@ THEME = 'themes/attila'
 
 ## Configurações do tema Attila
 AUTHORS_BIO = {
-    'everton.da.rosa': {
+    'everton3x': {
         'name': 'Everton da Rosa',
         'website': 'https://everton3x.github.io',
         'location': 'Três de Maio - RS - Brasil',

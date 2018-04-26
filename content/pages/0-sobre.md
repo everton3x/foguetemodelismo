@@ -1,5 +1,5 @@
 Title: Sobre nós
-Authors: everton.da.rosa
+Authors: everton3x
 
 **Foguetemodelismo** é um site dedicado ao hobby do [foguetemodelismo](o-que-e-foguetemodelismo.html), principalmente ao ramo dos [water rockets](o-que-sao-water-rockets.html).
 

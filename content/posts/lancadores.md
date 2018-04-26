@@ -1,5 +1,5 @@
 Title: Lançadores
-Authors: everton.da.rosa
+Authors: everton3x
 Category: Artigo
 Tags: lançador
 Summary: Conheeça um pouco sobre os diversos tipos de lançadores de foguetes.

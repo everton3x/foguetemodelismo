@@ -1,6 +1,6 @@
 Title: Hello world!
 Date: 2018-04-11
-Authors: everton.da.rosa
+Authors: everton3x
 Summary: Um novo site para um novo hobby!
 
 Hello world Foguetemodelismo!
