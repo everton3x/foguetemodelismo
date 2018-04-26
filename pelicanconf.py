@@ -85,7 +85,7 @@ AUTHORS_BIO = {
     }
 }
 
-HEADER_COVER = '/assets/images/banner_1.jpg'
+HEADER_COVER = 'assets/images/banner_1.jpg'
 # COLOR_SCHEME_CSS = 'tomorrow.css'
 # COLOR_SCHEME_CSS = 'tomorrow_night.css'
 # COLOR_SCHEME_CSS = 'monokai.css'
