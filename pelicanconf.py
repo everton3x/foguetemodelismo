@@ -7,6 +7,10 @@ SITENAME = 'Foguetemodelismo'
 SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = 'docs'
+PAGE_PATHS = ['pages']
+ARTICLE_PATHS = ['posts']
+
 STATIC_PATHS = [
     'assets',
     'images',
@@ -16,6 +20,13 @@ EXTRA_PATH_METADATA = {
     # 'assets/robots.txt': {'path': 'robots.txt'},
     'assets/favicon.ico': {'path': 'favicon.ico'},
 }
+
+DEFAULT_DATE_FORMAT = '%d/%m/%Y'
+DEFAULT_DATE = 'fs'
+
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
+USE_FOLDER_AS_CATEGORY = False
 
 # Coloca a landing-page como index
 #TEMPLATE_PAGES = {'extra/index.html': 'index.html'}
@@ -35,33 +46,46 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Everton da Rosa', 'https://everton3x.github.io/'),
+		# ('Hello World', 'https://everton3x.github.io/helloworld/'),
+        ('Contabilidade Pública', 'https://everton3x.github.io/contabilidadpublica'),
+        ('Fórum sobre Contabilidade Pública', 'http://www.contabeis.com.br/forum/foruns/8/contabilidade-publica/')
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Facebook', 'https://facebook.com/foguetemodelismo'),
+			# ('Twitter', 'https://twitter.com/everton3x'),
+          # ('Medium', 'https://medium.com/everton3x'),
+          # ('Github', 'https://github.com/everton3x'),
+          )
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+MENUITEMS = (('Início', '/index.html'),
+	('Categorias', '/categories.html'),
+	('Tags', '/tags.html'),
+	('Autores', '/authors.html'),
+	('Arquivos', '/archives.html')
+)
 
 THEME = 'themes/attila'
 
 ## Configurações do tema Attila
 AUTHORS_BIO = {
-    'everton3x': {
+    'everton.da.rosa': {
         'name': 'Everton da Rosa',
         'website': 'https://everton3x.github.io',
         'location': 'Três de Maio - RS - Brasil',
-        'bio': 'Contador por profissão, programador por vocação, e foguetemodelista.'
+        'bio': 'Contador por profissão, programador por vocação, e foguetemodelista.',
+        'cover': 'https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png',
+        'image': 'https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png',
     }
 }
 
-HEADER_COVER = 'assets/images/banner_1.jpg'
+HEADER_COVER = '/assets/images/banner_1.jpg'
 # COLOR_SCHEME_CSS = 'tomorrow.css'
 # COLOR_SCHEME_CSS = 'tomorrow_night.css'
 # COLOR_SCHEME_CSS = 'monokai.css'

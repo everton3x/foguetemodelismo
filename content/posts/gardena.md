@@ -1,5 +1,5 @@
 Title: O lançador Gardena
-Date: 2018-04-25
+Authors: everton.da.rosa
 Category: Lançadores
 Tags: gardena, lançador
 Summary: Conheça um pouco mais sobre o lançador do tipo Gardena.

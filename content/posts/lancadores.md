@@ -1,5 +1,5 @@
 Title: Lançadores
-Date: 2018-04-25
+Authors: everton.da.rosa
 Category: Artigo
 Tags: lançador
 Summary: Conheeça um pouco sobre os diversos tipos de lançadores de foguetes.

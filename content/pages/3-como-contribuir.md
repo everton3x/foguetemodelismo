@@ -1,5 +1,5 @@
 Title: Como contribuir
-Date: 2018-04-13
+Authors: everton.da.rosa
 Summary: Descubra como nos ajudar com conteúdo.
 
 Você tem algum tutorial, artigo, pesquisa ou conhece algum site interessante sobre foguetemodelismo e temas relacionados, e gostaria de ver isso aqui? Então nos ajude a construir o maior e melhor site sobre foguetemodelismo em português e envie o seu conteúdo ou indicação de conteúdo.

@@ -1,5 +1,5 @@
 Title: Como construir um water rocket
-Date: 2018-04-25
+Authors: everton.da.rosa
 Category: Tutorial
 Tags: water rocket
 Summary: Roadmap para construção de water rockets.
