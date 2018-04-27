@@ -25,7 +25,7 @@ DEFAULT_DATE_FORMAT = '%d/%m/%Y'
 DEFAULT_DATE = 'fs'
 
 DISPLAY_PAGES_ON_MENU = True
-DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 USE_FOLDER_AS_CATEGORY = False
 
 # Coloca a landing-page como index
@@ -64,12 +64,12 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-# MENUITEMS = (('Início', 'index.html'),
-# 	('Categorias', 'categories.html'),
-# 	('Tags', 'tags.html'),
-# 	('Autores', 'authors.html'),
-# 	('Arquivos', 'archives.html')
-# )
+MENUITEMS = (('Início', 'index.html'),
+	('Categorias', 'categories.html'),
+	('Tags', 'tags.html'),
+	('Autores', 'authors.html'),
+	('Arquivos', 'archives.html')
+)
 
 THEME = 'themes/attila'
 
