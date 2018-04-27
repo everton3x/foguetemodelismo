@@ -5,6 +5,7 @@ Category: Projeto
 Tags: lançador, LMP2
 Summary: Página do projeto do LMP2
 
+
 # Introdução
 
 **L**ançador **M**ulti**p**ropósito, versão **2** é um lançador para diversos tipos de lançamento, de baixo custo para uma diversa gama de capacidades dos foguetes.
@@ -22,6 +23,8 @@ O **LMP2** atende aos seguintes requisitos:
 # Histórico
 
 O LMP2 é a evolução do lançador [Lester](https://pt.wikipedia.org/wiki/Lester_(Personagem)) e foi pensado para corrigir alguns problemas daquele primeiro lançador, além de acrescentar algumas pequenas melhorias.
+
+![Lançador Lester com um foguete acoplado](assets/images/lancadores/lester.jpg "Lançador Lester com um foguete acoplado"){style='width: 40%; float: right; margin: 10px'}
 
 Os principais problemas apresentados pelo lançador Lester que o LMP2 procura resolver são:
 
