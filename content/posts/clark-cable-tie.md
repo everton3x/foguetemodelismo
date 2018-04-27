@@ -43,22 +43,13 @@ A construção de um lançador não é uma receita de bolo, que você copia da i
 Assim, optei por colocar diversos vídeos mostrando a construção de lançadores do tipo Clark Cable-Tie para servir de referência. Além deles, recomendo a consulta a página do Air Command Rockets [^1] que inspirou este conteúdo.
 
 ## Como fazer um lançador Clark Cable-Tie
-<video width="600" height="400" controls>
-  <source src="assets/videos/How to make a Clark Cable Tie Release Mechanism for a Water Rocket.mp4" type="video/mp4">
-  Seu navegador não suporta a tag HTML5 video. você pode [baixar o vídeo](assets/videos/How to make a Clark Cable Tie Release Mechanism for a Water Rocket.mp4)
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9-tyxuilj2c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Como fazer um selo o-ring para um Clark Cable-Tie
-<video width="600" height="400" controls>
-  <source src="assets/videos/Make an O-Ring Water Rocket Launch Tube for Cable Tie Launchers.mp4" type="video/mp4">
-  Seu navegador não suporta a tag HTML5 video. você pode [baixar o vídeo](assets/videos/Make an O-Ring Water Rocket Launch Tube for Cable Tie Launchers.mp4)
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X3Dd1HZd7fg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Mecanismo de trava/liberação do foguete no Clark Cable-Tie
-<video width="600" height="400" controls>
-  <source src="assets/videos/Water Rocket Launch Collar, -  close up, and load method.mp4" type="video/mp4">
-  Seu navegador não suporta a tag HTML5 video. você pode [baixar o vídeo](assets/videos/Water Rocket Launch Collar, -  close up, and load method.mp4)
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B-SN8IjGA08" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Notas
 [^1]: **Clark Cable-Tie Launcher**, do *Air Command Rockets*, disponível em [http://www.aircommandrockets.com/construction_9.htm](http://www.aircommandrockets.com/construction_9.htm)

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Foguetemodelismo</title><link href="https://everton3x.github.io/foguetemodelismo/" rel="alternate"></link><link href="https://everton3x.github.io/foguetemodelismo/feeds/all.atom.xml" rel="self"></link><id>https://everton3x.github.io/foguetemodelismo/</id><updated>2018-04-27T16:23:05-03:00</updated><entry><title>O lançador Clark Cable-Tie</title><link href="https://everton3x.github.io/foguetemodelismo/clark-cable-tie.html" rel="alternate"></link><published>2018-04-27T16:23:05-03:00</published><updated>2018-04-27T16:23:05-03:00</updated><author><name>everton3x</name></author><id>tag:everton3x.github.io,2018-04-27:/foguetemodelismo/clark-cable-tie.html</id><summary type="html">&lt;p&gt;Conheça um pouco mais sobre o lançador do tipo Clark Cable-Tie.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="Estrutura básica do Clark Cable-Tie" src="assets/images/lancadores/clark-cable-tie1.jpg" style="float: right; width: 40%; margin: 10px"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Foguetemodelismo</title><link href="https://everton3x.github.io/foguetemodelismo/" rel="alternate"></link><link href="https://everton3x.github.io/foguetemodelismo/feeds/all.atom.xml" rel="self"></link><id>https://everton3x.github.io/foguetemodelismo/</id><updated>2018-04-27T16:58:05-03:00</updated><entry><title>O lançador Clark Cable-Tie</title><link href="https://everton3x.github.io/foguetemodelismo/clark-cable-tie.html" rel="alternate"></link><published>2018-04-27T16:58:05-03:00</published><updated>2018-04-27T16:58:05-03:00</updated><author><name>everton3x</name></author><id>tag:everton3x.github.io,2018-04-27:/foguetemodelismo/clark-cable-tie.html</id><summary type="html">&lt;p&gt;Conheça um pouco mais sobre o lançador do tipo Clark Cable-Tie.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="Estrutura básica do Clark Cable-Tie" src="assets/images/lancadores/clark-cable-tie1.jpg" style="float: right; width: 40%; margin: 10px"&gt;
 O lançador de Clark Cable-Tie foi desenvolvido por Ian Clark em 1998, na Austŕlia e se tornou lançador mais usado em todo o mundo. Barato, fácil de construir e confiável, ele é projetado para lançar foguetes com o bocal normal da garrafa, tornando desnecessário um bocal especial para o seu foguete, como seria necessário em lançadores do tipo &lt;a href="gardena.html"&gt;Gardena&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;O projeto básico do lançador Clark Cable-Tie é baseado em um pedaço de tubo de PVC com um anel de abraçadeiras do tipo cinta hellerman cujas cabeças se prendem à flange da garrafa. Um colar feito de um cano de PVC maior envolve as abraçadeiras impedindo que elas se espalhem e, portanto, segurando o foguete no lançador. Quando é hora de lançar
 o colar é puxado para baixo, permitindo que as cabeças dos cabos se separem e soltem o foguete.&lt;/p&gt;
@@ -40,20 +40,11 @@ o colar é puxado para baixo, permitindo que as cabeças dos cabos se separem e 
 &lt;p&gt;A construção de um lançador não é uma receita de bolo, que você copia da internet, segue ela a risca e tudo fica certo. Depende do nível de habilidade que o construtor tem, dos materiais e ferramentas disponíves e das necessidades que o construtor, entre outros fatores.&lt;/p&gt;
 &lt;p&gt;Assim, optei por colocar diversos vídeos mostrando a construção de lançadores do tipo Clark Cable-Tie para servir de referência. Além deles, recomendo a consulta a página do Air Command Rockets &lt;sup id="fnref2-1"&gt;&lt;a class="footnote-ref" href="#fn-1"&gt;1&lt;/a&gt;&lt;/sup&gt; que inspirou este conteúdo.&lt;/p&gt;
 &lt;h2&gt;Como fazer um lançador Clark Cable-Tie&lt;/h2&gt;
-&lt;p&gt;&lt;video width="600" height="400" controls&gt;
-  &lt;source src="assets/videos/How to make a Clark Cable Tie Release Mechanism for a Water Rocket.mp4" type="video/mp4"&gt;
-  Seu navegador não suporta a tag HTML5 video. você pode &lt;a href="assets/videos/How to make a Clark Cable Tie Release Mechanism for a Water Rocket.mp4"&gt;baixar o vídeo&lt;/a&gt;
-&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9-tyxuilj2c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;Como fazer um selo o-ring para um Clark Cable-Tie&lt;/h2&gt;
-&lt;p&gt;&lt;video width="600" height="400" controls&gt;
-  &lt;source src="assets/videos/Make an O-Ring Water Rocket Launch Tube for Cable Tie Launchers.mp4" type="video/mp4"&gt;
-  Seu navegador não suporta a tag HTML5 video. você pode &lt;a href="assets/videos/Make an O-Ring Water Rocket Launch Tube for Cable Tie Launchers.mp4"&gt;baixar o vídeo&lt;/a&gt;
-&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/X3Dd1HZd7fg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;Mecanismo de trava/liberação do foguete no Clark Cable-Tie&lt;/h2&gt;
-&lt;p&gt;&lt;video width="600" height="400" controls&gt;
-  &lt;source src="assets/videos/Water Rocket Launch Collar, -  close up, and load method.mp4" type="video/mp4"&gt;
-  Seu navegador não suporta a tag HTML5 video. você pode &lt;a href="assets/videos/Water Rocket Launch Collar, -  close up, and load method.mp4"&gt;baixar o vídeo&lt;/a&gt;
-&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B-SN8IjGA08" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h1&gt;Notas&lt;/h1&gt;
 &lt;div class="footnote"&gt;
 &lt;hr&gt;
