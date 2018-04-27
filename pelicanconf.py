@@ -80,7 +80,7 @@ AUTHORS_BIO = {
         'website': 'https://everton3x.github.io',
         'location': 'Três de Maio - RS - Brasil',
         'bio': 'Contador por profissão, programador por vocação, e foguetemodelista.',
-        'cover': 'https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png',
+        # 'cover': 'https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png',
         'image': 'https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png',
     }
 }
