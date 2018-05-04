@@ -1,5 +1,5 @@
 Title: Como contribuir
-Slug: como-constribuir
+Slug: como-contribuir
 Authors: everton3x
 Summary: Descubra como nos ajudar com conteúdo.
 

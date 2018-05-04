@@ -24,7 +24,7 @@ EXTRA_PATH_METADATA = {
 DEFAULT_DATE_FORMAT = '%d/%m/%Y'
 DEFAULT_DATE = 'fs'
 
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 USE_FOLDER_AS_CATEGORY = False
 
@@ -67,11 +67,16 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-MENUITEMS = (('Início', 'index.html'),
-	('Categorias', 'categories.html'),
-	('Tags', 'tags.html'),
-	('Autores', 'authors.html'),
-	('Arquivos', 'archives.html')
+MENUITEMS = (('Início', SITEURL + '/index.html'),
+	('Foguetemodelismo', SITEURL + '/pages/foguetemodelismo.html'),
+	('Water Rockets', SITEURL + '/pages/water-rockets.html'),
+	('Projetos', SITEURL + '/pages/projetos.html'),
+	('Categorias', SITEURL + '/categories.html'),
+	('Tags', SITEURL + '/tags.html'),
+	('Autores', SITEURL + '/authors.html'),
+	('Arquivos', SITEURL + '/archives.html'),
+	('Contribua', SITEURL + '/pages/como-contribuir.html'),
+	('Sobre nós', SITEURL + '/pages/sobre.html'),
 )
 
 THEME = 'themes/attila'
@@ -83,7 +88,7 @@ AUTHORS_BIO = {
         'website': 'https://everton3x.github.io',
         'location': 'Três de Maio - RS - Brasil',
         'bio': 'Contador por profissão, programador por vocação, e foguetemodelista.',
-        # 'cover': 'https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png',
+        'cover': 'https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png',
         'image': 'https://pt.gravatar.com/userimage/2318180/0a175cf735e882a8c81d12d05952842c.png',
     }
 }
