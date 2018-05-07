@@ -52,8 +52,22 @@ Essa configuração teve bom desempenho nos testes iniciais, ficando o maior pro
 
 Foi testado, então, a ligação direta entre o cabo de liberação e os parafusos, mas a liberação dos parafusos era tarefa que exigia demasiada força. Além disso, os parafusos eram instáveis, caido facilmente do equipamento. Por isso, a ideia foi abandonada.
 
-Por fim, partiu-se para o uso do sistema [Clark Cable-tie](clark-cable-tie.html) utilizando uma maior quantidade de cintas hellerman.
+Por fim, partiu-se para o uso do sistema [Clark Cable-Tie](clark-cable-tie.html) utilizando uma maior quantidade de cintas hellerman.
 
 Nessa nova configuração, ao colar de retenção foram adicionadas duas tiras duplas de PET recortadas de uma garrafa PET, prendendo a parte superior de cada dupla ao colar de retenção (com rebites) e a parte inferior, ao tubo de lançamento, com arame, fazendo com que cada dupla de folhas formasse um arco em cada lado do colar, agindo como uma mola pressionando o colar para cima, evitando que ele caisse em ângulos mais elevados de lançamento.
 
-O problema de acoplamento do foguete foi resolvido de forma simples ao separa o tubo de lançamento da base do lançador. O tubo de lançamento é acoplado à base por meio de um adaptador 25-20 e é vedado por um registro do tipo esfera, em substituição à torneira que era utilizada como válvula de segurança no lançador Lester.
+O problema de acoplamento do foguete foi resolvido de forma simples ao separar o tubo de lançamento da base do lançador. O tubo de lançamento é acoplado à base por meio de um adaptador 25-20 e é vedado por um registro do tipo esfera, em substituição à torneira que era utilizada como válvula de segurança no lançador Lester.
+
+Nos dias 28 e 29 de abril de 2018 tivemos o [dia de lançamento #4](lancamento_004.html), cujo objetivo era testar o protótipo do LMP2 em sua versão final.
+
+Naquele dia foram feitos vários lançamentos que comprovaram a adequação do LPM2 ao seu propósito e a resolução dos problemas iniciais.
+
+# LMP2.1
+
+Como resultado do dia de lançamento #4, verificou-se que o LMP2 estava pronto para o uso.
+
+Contudo, algumas pequenas melhorias ainda serão feitas, para as quais teremos o **LMP2.1**:
+
+- Substituição das "molas" do colar de retenção por tiras de PET mais finas, visando dar uma melhor aparência para o lançador;
+- Substituição do colar de retenção por um novo, possivelmente com cavilhas para acondicionar as aletas dos foguetes; e
+- Utilização de uma alça de disparo que possibilite tracionar para baixo o colar de retenção nas duas laterais.
