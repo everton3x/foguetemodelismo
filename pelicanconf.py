@@ -8,7 +8,7 @@ SITEURL = 'http://localhost:8000/docs'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
-PAGE_PATHS = ['pages']
+# PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['posts']
 
 STATIC_PATHS = [
@@ -65,19 +65,30 @@ DEFAULT_PAGINATION = 10
 # PLUGINS = ['']
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
-MENUITEMS = (('Início', SITEURL + '/index.html'),
-	('Foguetemodelismo', SITEURL + '/pages/foguetemodelismo.html'),
-	('Water Rockets', SITEURL + '/pages/water-rockets.html'),
-	('Projetos', SITEURL + '/pages/projetos.html'),
-	('Categorias', SITEURL + '/categories.html'),
-	('Tags', SITEURL + '/tags.html'),
-	('Autores', SITEURL + '/authors.html'),
-	('Arquivos', SITEURL + '/archives.html'),
-	('Contribua', SITEURL + '/pages/como-contribuir.html'),
-	('Sobre nós', SITEURL + '/pages/sobre.html'),
+MENUITEMS = (('Início', 'index.html'),
+	('Foguetemodelismo', 'foguetemodelismo.html'),
+	('Water Rockets', 'water-rockets.html'),
+	('Projetos', 'projetos.html'),
+	('Categorias', 'categories.html'),
+	('Tags', 'tags.html'),
+	('Autores', 'authors.html'),
+	('Arquivos', 'archives.html'),
+	('Contribua', 'como-contribuir.html'),
+	('Sobre nós', 'sobre.html'),
 )
+# MENUITEMS = (('Início', SITEURL + '/index.html'),
+# 	('Foguetemodelismo', SITEURL + '/pages/foguetemodelismo.html'),
+# 	('Water Rockets', SITEURL + '/pages/water-rockets.html'),
+# 	('Projetos', SITEURL + '/pages/projetos.html'),
+# 	('Categorias', SITEURL + '/categories.html'),
+# 	('Tags', SITEURL + '/tags.html'),
+# 	('Autores', SITEURL + '/authors.html'),
+# 	('Arquivos', SITEURL + '/archives.html'),
+# 	('Contribua', SITEURL + '/pages/como-contribuir.html'),
+# 	('Sobre nós', SITEURL + '/pages/sobre.html'),
+# )
 
 THEME = 'themes/attila'
 
