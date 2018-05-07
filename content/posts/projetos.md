@@ -19,4 +19,4 @@ O **LMP2** atende aos seguintes requisitos:
 6. Suportar até 120 psi de pressurização, no mínimo;
 7. Ser pequeno e fácil de transportar;
 
-Visite a [página do projeto](../lmp2.html) para mais detalhes.
+Visite a [página do projeto](lmp2.html) para mais detalhes.
